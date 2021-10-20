@@ -24,7 +24,7 @@ public class BinarySearch {
                 index = mid;
                 break;
             }
-        }
+        } 
         return index;
     }
     //ToDo 2: Call the above method and test the algorithm  
