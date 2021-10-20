@@ -15,6 +15,7 @@ public class BubbleSort {
         for (outer = size - 1; outer > 0; outer--) { // counting down
             for (inner = 0; inner < outer; inner++) { // bubbling up
                 //ToDo 3: complete this algorithm, test it, provide its time complexity
+                
             }
         }
     }
